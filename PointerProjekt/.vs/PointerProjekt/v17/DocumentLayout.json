@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JoachimWagner\\Documents\\git\\vw\\vw-c-november-2025\\PointerProjekt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA97847-9C2A-4AF7-9CC3-998C30B0DAEF}|PointerProjekt\\PointerProjekt.vcxproj|C:\\Users\\JoachimWagner\\Documents\\git\\vw\\vw-c-november-2025\\PointerProjekt\\PointerProjekt\\PointerProjekt.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AAA97847-9C2A-4AF7-9CC3-998C30B0DAEF}|PointerProjekt\\PointerProjekt.vcxproj|solutionrelative:PointerProjekt\\PointerProjekt.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PointerProjekt.c",
+              "DocumentMoniker": "C:\\Users\\JoachimWagner\\Documents\\git\\vw\\vw-c-november-2025\\PointerProjekt\\PointerProjekt\\PointerProjekt.c",
+              "RelativeDocumentMoniker": "PointerProjekt\\PointerProjekt.c",
+              "ToolTip": "C:\\Users\\JoachimWagner\\Documents\\git\\vw\\vw-c-november-2025\\PointerProjekt\\PointerProjekt\\PointerProjekt.c",
+              "RelativeToolTip": "PointerProjekt\\PointerProjekt.c",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-26T08:04:59.975Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

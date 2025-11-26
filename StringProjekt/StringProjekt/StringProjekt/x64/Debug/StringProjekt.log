@@ -1,0 +1,8 @@
+﻿  StringProjekt.c
+C:\Users\JoachimWagner\Documents\git\vw\vw-c-november-2025\StringProjekt\StringProjekt\StringProjekt.c(36,12): warning C4477: "printf": Die Formatzeichenfolge "%ld" erfordert ein Argument vom Typ "long", das variadic-Argument "1" weist aber den Typ "size_t" auf.
+      C:\Users\JoachimWagner\Documents\git\vw\vw-c-november-2025\StringProjekt\StringProjekt\StringProjekt.c(36,12):
+      Verwenden Sie ggf. "%zd" in der Formatzeichenfolge.
+  
+  StringProjekt.vcxproj -> C:\Users\JoachimWagner\Documents\git\vw\vw-c-november-2025\StringProjekt\StringProjekt\x64\Debug\StringProjekt.exe
+  Der Befehl "pwsh.exe" ist entweder falsch geschrieben oder
+  konnte nicht gefunden werden.

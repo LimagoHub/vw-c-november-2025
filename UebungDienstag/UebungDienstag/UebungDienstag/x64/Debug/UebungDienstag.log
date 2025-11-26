@@ -1,0 +1,8 @@
+﻿  UebungDienstag.c
+C:\Users\JoachimWagner\Documents\git\vw\vw-c-november-2025\UebungDienstag\UebungDienstag\UebungDienstag.c(14,9): warning C4477: "printf": Die Formatzeichenfolge "%d" erfordert ein Argument vom Typ "int", das variadic-Argument "1" weist aber den Typ "size_t" auf.
+      C:\Users\JoachimWagner\Documents\git\vw\vw-c-november-2025\UebungDienstag\UebungDienstag\UebungDienstag.c(14,9):
+      Verwenden Sie ggf. "%zd" in der Formatzeichenfolge.
+  
+  UebungDienstag.vcxproj -> C:\Users\JoachimWagner\Documents\git\vw\vw-c-november-2025\UebungDienstag\UebungDienstag\x64\Debug\UebungDienstag.exe
+  Der Befehl "pwsh.exe" ist entweder falsch geschrieben oder
+  konnte nicht gefunden werden.

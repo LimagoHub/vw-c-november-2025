@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JoachimWagner\\Documents\\git\\vw\\vw-c-november-2025\\StringProjekt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A183AB88-C391-4F8D-927B-4B882940E43F}|StringProjekt\\StringProjekt.vcxproj|C:\\Users\\JoachimWagner\\Documents\\git\\vw\\vw-c-november-2025\\StringProjekt\\StringProjekt\\StringProjekt.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A183AB88-C391-4F8D-927B-4B882940E43F}|StringProjekt\\StringProjekt.vcxproj|solutionrelative:StringProjekt\\StringProjekt.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StringProjekt.c",
+              "DocumentMoniker": "C:\\Users\\JoachimWagner\\Documents\\git\\vw\\vw-c-november-2025\\StringProjekt\\StringProjekt\\StringProjekt.c",
+              "RelativeDocumentMoniker": "StringProjekt\\StringProjekt.c",
+              "ToolTip": "C:\\Users\\JoachimWagner\\Documents\\git\\vw\\vw-c-november-2025\\StringProjekt\\StringProjekt\\StringProjekt.c",
+              "RelativeToolTip": "StringProjekt\\StringProjekt.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-26T10:37:22.355Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

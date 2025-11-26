@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JoachimWagner\\Documents\\git\\vw\\vw-c-november-2025\\IncrementProjkt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7534E14A-2C9F-498B-855D-1A76F831AD9F}|IncrementProjkt\\IncrementProjkt.vcxproj|C:\\Users\\JoachimWagner\\Documents\\git\\vw\\vw-c-november-2025\\IncrementProjkt\\IncrementProjkt\\IncrementProjkt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7534E14A-2C9F-498B-855D-1A76F831AD9F}|IncrementProjkt\\IncrementProjkt.vcxproj|solutionrelative:IncrementProjkt\\IncrementProjkt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IncrementProjkt.cpp",
+              "DocumentMoniker": "C:\\Users\\JoachimWagner\\Documents\\git\\vw\\vw-c-november-2025\\IncrementProjkt\\IncrementProjkt\\IncrementProjkt.cpp",
+              "RelativeDocumentMoniker": "IncrementProjkt\\IncrementProjkt.cpp",
+              "ToolTip": "C:\\Users\\JoachimWagner\\Documents\\git\\vw\\vw-c-november-2025\\IncrementProjkt\\IncrementProjkt\\IncrementProjkt.cpp",
+              "RelativeToolTip": "IncrementProjkt\\IncrementProjkt.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-26T13:15:32.504Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

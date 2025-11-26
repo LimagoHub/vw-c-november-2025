@@ -1,0 +1,4 @@
+﻿  PointerProjekt.c
+  LINK : C:\Users\JoachimWagner\Documents\git\vw\vw-c-november-2025\PointerProjekt\PointerProjekt\x64\Debug\PointerProjekt.exe wurde nicht gefunden oder beim letzten inkrementellen Linkvorgang nicht erstellt; vollständiger Link wird durchgeführt.
+PointerProjekt.obj : error LNK2005: dummy ist bereits in MyMath.obj definiert.
+C:\Users\JoachimWagner\Documents\git\vw\vw-c-november-2025\PointerProjekt\PointerProjekt\x64\Debug\PointerProjekt.exe : fatal error LNK1169: Mindestens ein mehrfach definiertes Symbol gefunden.

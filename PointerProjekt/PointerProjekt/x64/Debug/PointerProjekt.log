@@ -1,0 +1,12 @@
+﻿  PointerProjekt.c
+C:\Users\JoachimWagner\Documents\git\vw\vw-c-november-2025\PointerProjekt\PointerProjekt\PointerProjekt.c(11,9): warning C4477: "printf": Die Formatzeichenfolge "%d" erfordert ein Argument vom Typ "int", das variadic-Argument "1" weist aber den Typ "size_t" auf.
+      C:\Users\JoachimWagner\Documents\git\vw\vw-c-november-2025\PointerProjekt\PointerProjekt\PointerProjekt.c(11,9):
+      Verwenden Sie ggf. "%zd" in der Formatzeichenfolge.
+  
+C:\Users\JoachimWagner\Documents\git\vw\vw-c-november-2025\PointerProjekt\PointerProjekt\PointerProjekt.c(14,10): warning C4477: "printf": Die Formatzeichenfolge "%ld" erfordert ein Argument vom Typ "long", das variadic-Argument "1" weist aber den Typ "size_t" auf.
+      C:\Users\JoachimWagner\Documents\git\vw\vw-c-november-2025\PointerProjekt\PointerProjekt\PointerProjekt.c(14,10):
+      Verwenden Sie ggf. "%zd" in der Formatzeichenfolge.
+  
+  PointerProjekt.vcxproj -> C:\Users\JoachimWagner\Documents\git\vw\vw-c-november-2025\PointerProjekt\x64\Debug\PointerProjekt.exe
+  Der Befehl "pwsh.exe" ist entweder falsch geschrieben oder
+  konnte nicht gefunden werden.
