@@ -6,7 +6,7 @@
 
 size_t string_length(const char * const string)
 {
-    size_t counter = 0;
+	size_t counter = 0;
 
     while (*(string + counter))
     {

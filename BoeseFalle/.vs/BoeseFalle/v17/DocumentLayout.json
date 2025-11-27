@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JoachimWagner\\Documents\\git\\vw\\vw-c-november-2025\\BoeseFalle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AC1788-D673-49CF-940C-91D7BC36B1CD}|BoeseFalle\\BoeseFalle.vcxproj|C:\\Users\\JoachimWagner\\Documents\\git\\vw\\vw-c-november-2025\\BoeseFalle\\BoeseFalle\\BoeseFalle.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6AC1788-D673-49CF-940C-91D7BC36B1CD}|BoeseFalle\\BoeseFalle.vcxproj|solutionrelative:BoeseFalle\\BoeseFalle.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BoeseFalle.c",
+              "DocumentMoniker": "C:\\Users\\JoachimWagner\\Documents\\git\\vw\\vw-c-november-2025\\BoeseFalle\\BoeseFalle\\BoeseFalle.c",
+              "RelativeDocumentMoniker": "BoeseFalle\\BoeseFalle.c",
+              "ToolTip": "C:\\Users\\JoachimWagner\\Documents\\git\\vw\\vw-c-november-2025\\BoeseFalle\\BoeseFalle\\BoeseFalle.c",
+              "RelativeToolTip": "BoeseFalle\\BoeseFalle.c",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-27T10:14:10.207Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

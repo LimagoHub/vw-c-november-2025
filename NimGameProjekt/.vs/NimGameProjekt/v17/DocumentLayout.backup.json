@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JoachimWagner\\Documents\\git\\vw\\vw-c-november-2025\\NimGameProjekt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D62277-9CBD-4C0D-A923-C7FD95A49A46}|NimGameProjekt\\NimGameProjekt.vcxproj|C:\\Users\\JoachimWagner\\Documents\\git\\vw\\vw-c-november-2025\\NimGameProjekt\\NimGameProjekt\\NimGame.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C7D62277-9CBD-4C0D-A923-C7FD95A49A46}|NimGameProjekt\\NimGameProjekt.vcxproj|solutionrelative:NimGameProjekt\\NimGame.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D62277-9CBD-4C0D-A923-C7FD95A49A46}|NimGameProjekt\\NimGameProjekt.vcxproj|C:\\Users\\JoachimWagner\\Documents\\git\\vw\\vw-c-november-2025\\NimGameProjekt\\NimGameProjekt\\NimGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C7D62277-9CBD-4C0D-A923-C7FD95A49A46}|NimGameProjekt\\NimGameProjekt.vcxproj|solutionrelative:NimGameProjekt\\NimGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D62277-9CBD-4C0D-A923-C7FD95A49A46}|NimGameProjekt\\NimGameProjekt.vcxproj|C:\\Users\\JoachimWagner\\Documents\\git\\vw\\vw-c-november-2025\\NimGameProjekt\\NimGameProjekt\\NimGameProjekt.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C7D62277-9CBD-4C0D-A923-C7FD95A49A46}|NimGameProjekt\\NimGameProjekt.vcxproj|solutionrelative:NimGameProjekt\\NimGameProjekt.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NimGame.c",
+              "DocumentMoniker": "C:\\Users\\JoachimWagner\\Documents\\git\\vw\\vw-c-november-2025\\NimGameProjekt\\NimGameProjekt\\NimGame.c",
+              "RelativeDocumentMoniker": "NimGameProjekt\\NimGame.c",
+              "ToolTip": "C:\\Users\\JoachimWagner\\Documents\\git\\vw\\vw-c-november-2025\\NimGameProjekt\\NimGameProjekt\\NimGame.c*",
+              "RelativeToolTip": "NimGameProjekt\\NimGame.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-27T12:28:33.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NimGame.h",
+              "DocumentMoniker": "C:\\Users\\JoachimWagner\\Documents\\git\\vw\\vw-c-november-2025\\NimGameProjekt\\NimGameProjekt\\NimGame.h",
+              "RelativeDocumentMoniker": "NimGameProjekt\\NimGame.h",
+              "ToolTip": "C:\\Users\\JoachimWagner\\Documents\\git\\vw\\vw-c-november-2025\\NimGameProjekt\\NimGameProjekt\\NimGame.h",
+              "RelativeToolTip": "NimGameProjekt\\NimGame.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-27T12:25:35.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NimGameProjekt.c",
+              "DocumentMoniker": "C:\\Users\\JoachimWagner\\Documents\\git\\vw\\vw-c-november-2025\\NimGameProjekt\\NimGameProjekt\\NimGameProjekt.c",
+              "RelativeDocumentMoniker": "NimGameProjekt\\NimGameProjekt.c",
+              "ToolTip": "C:\\Users\\JoachimWagner\\Documents\\git\\vw\\vw-c-november-2025\\NimGameProjekt\\NimGameProjekt\\NimGameProjekt.c",
+              "RelativeToolTip": "NimGameProjekt\\NimGameProjekt.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-27T12:24:17.337Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
