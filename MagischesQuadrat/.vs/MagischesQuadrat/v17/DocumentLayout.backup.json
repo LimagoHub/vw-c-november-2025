@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\JoachimWagner\\source\\repos\\MagischesQuadrat\\",
+  "WorkspaceRootPath": "C:\\Users\\JoachimWagner\\Documents\\git\\vw\\vw-c-november-2025\\MagischesQuadrat\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{27D3ECE0-1AA0-4F8E-B3A3-84C3FC935D53}|MagischesQuadrat\\MagischesQuadrat.vcxproj|C:\\Users\\JoachimWagner\\source\\repos\\MagischesQuadrat\\MagischesQuadrat\\Quadrat.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{27D3ECE0-1AA0-4F8E-B3A3-84C3FC935D53}|MagischesQuadrat\\MagischesQuadrat.vcxproj|C:\\Users\\JoachimWagner\\Documents\\git\\vw\\vw-c-november-2025\\MagischesQuadrat\\MagischesQuadrat\\Quadrat.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{27D3ECE0-1AA0-4F8E-B3A3-84C3FC935D53}|MagischesQuadrat\\MagischesQuadrat.vcxproj|solutionrelative:MagischesQuadrat\\Quadrat.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27D3ECE0-1AA0-4F8E-B3A3-84C3FC935D53}|MagischesQuadrat\\MagischesQuadrat.vcxproj|C:\\Users\\JoachimWagner\\source\\repos\\MagischesQuadrat\\MagischesQuadrat\\MagischesQuadrat.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{27D3ECE0-1AA0-4F8E-B3A3-84C3FC935D53}|MagischesQuadrat\\MagischesQuadrat.vcxproj|C:\\Users\\JoachimWagner\\Documents\\git\\vw\\vw-c-november-2025\\MagischesQuadrat\\MagischesQuadrat\\MagischesQuadrat.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{27D3ECE0-1AA0-4F8E-B3A3-84C3FC935D53}|MagischesQuadrat\\MagischesQuadrat.vcxproj|solutionrelative:MagischesQuadrat\\MagischesQuadrat.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27D3ECE0-1AA0-4F8E-B3A3-84C3FC935D53}|MagischesQuadrat\\MagischesQuadrat.vcxproj|C:\\Users\\JoachimWagner\\source\\repos\\MagischesQuadrat\\MagischesQuadrat\\Quadrat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{27D3ECE0-1AA0-4F8E-B3A3-84C3FC935D53}|MagischesQuadrat\\MagischesQuadrat.vcxproj|C:\\Users\\JoachimWagner\\Documents\\git\\vw\\vw-c-november-2025\\MagischesQuadrat\\MagischesQuadrat\\Quadrat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{27D3ECE0-1AA0-4F8E-B3A3-84C3FC935D53}|MagischesQuadrat\\MagischesQuadrat.vcxproj|solutionrelative:MagischesQuadrat\\Quadrat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Quadrat.c",
-              "DocumentMoniker": "C:\\Users\\JoachimWagner\\source\\repos\\MagischesQuadrat\\MagischesQuadrat\\Quadrat.c",
+              "DocumentMoniker": "C:\\Users\\JoachimWagner\\Documents\\git\\vw\\vw-c-november-2025\\MagischesQuadrat\\MagischesQuadrat\\Quadrat.c",
               "RelativeDocumentMoniker": "MagischesQuadrat\\Quadrat.c",
-              "ToolTip": "C:\\Users\\JoachimWagner\\source\\repos\\MagischesQuadrat\\MagischesQuadrat\\Quadrat.c",
+              "ToolTip": "C:\\Users\\JoachimWagner\\Documents\\git\\vw\\vw-c-november-2025\\MagischesQuadrat\\MagischesQuadrat\\Quadrat.c",
               "RelativeToolTip": "MagischesQuadrat\\Quadrat.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-11-28T08:47:45.966Z",
               "EditorCaption": ""
@@ -41,9 +41,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Quadrat.h",
-              "DocumentMoniker": "C:\\Users\\JoachimWagner\\source\\repos\\MagischesQuadrat\\MagischesQuadrat\\Quadrat.h",
+              "DocumentMoniker": "C:\\Users\\JoachimWagner\\Documents\\git\\vw\\vw-c-november-2025\\MagischesQuadrat\\MagischesQuadrat\\Quadrat.h",
               "RelativeDocumentMoniker": "MagischesQuadrat\\Quadrat.h",
-              "ToolTip": "C:\\Users\\JoachimWagner\\source\\repos\\MagischesQuadrat\\MagischesQuadrat\\Quadrat.h",
+              "ToolTip": "C:\\Users\\JoachimWagner\\Documents\\git\\vw\\vw-c-november-2025\\MagischesQuadrat\\MagischesQuadrat\\Quadrat.h",
               "RelativeToolTip": "MagischesQuadrat\\Quadrat.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -53,9 +53,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MagischesQuadrat.c",
-              "DocumentMoniker": "C:\\Users\\JoachimWagner\\source\\repos\\MagischesQuadrat\\MagischesQuadrat\\MagischesQuadrat.c",
+              "DocumentMoniker": "C:\\Users\\JoachimWagner\\Documents\\git\\vw\\vw-c-november-2025\\MagischesQuadrat\\MagischesQuadrat\\MagischesQuadrat.c",
               "RelativeDocumentMoniker": "MagischesQuadrat\\MagischesQuadrat.c",
-              "ToolTip": "C:\\Users\\JoachimWagner\\source\\repos\\MagischesQuadrat\\MagischesQuadrat\\MagischesQuadrat.c",
+              "ToolTip": "C:\\Users\\JoachimWagner\\Documents\\git\\vw\\vw-c-november-2025\\MagischesQuadrat\\MagischesQuadrat\\MagischesQuadrat.c",
               "RelativeToolTip": "MagischesQuadrat\\MagischesQuadrat.c",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
