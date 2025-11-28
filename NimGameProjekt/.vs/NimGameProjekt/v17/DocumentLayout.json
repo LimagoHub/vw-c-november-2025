@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{C7D62277-9CBD-4C0D-A923-C7FD95A49A46}|NimGameProjekt\\NimGameProjekt.vcxproj|solutionrelative:NimGameProjekt\\NimGame.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7D62277-9CBD-4C0D-A923-C7FD95A49A46}|NimGameProjekt\\NimGameProjekt.vcxproj|C:\\Users\\JoachimWagner\\Documents\\git\\vw\\vw-c-november-2025\\NimGameProjekt\\NimGameProjekt\\NimGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C7D62277-9CBD-4C0D-A923-C7FD95A49A46}|NimGameProjekt\\NimGameProjekt.vcxproj|solutionrelative:NimGameProjekt\\NimGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C7D62277-9CBD-4C0D-A923-C7FD95A49A46}|NimGameProjekt\\NimGameProjekt.vcxproj|C:\\Users\\JoachimWagner\\Documents\\git\\vw\\vw-c-november-2025\\NimGameProjekt\\NimGameProjekt\\NimGameProjekt.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C7D62277-9CBD-4C0D-A923-C7FD95A49A46}|NimGameProjekt\\NimGameProjekt.vcxproj|solutionrelative:NimGameProjekt\\NimGameProjekt.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D62277-9CBD-4C0D-A923-C7FD95A49A46}|NimGameProjekt\\NimGameProjekt.vcxproj|C:\\Users\\JoachimWagner\\Documents\\git\\vw\\vw-c-november-2025\\NimGameProjekt\\NimGameProjekt\\NimGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C7D62277-9CBD-4C0D-A923-C7FD95A49A46}|NimGameProjekt\\NimGameProjekt.vcxproj|solutionrelative:NimGameProjekt\\NimGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,14 +32,14 @@
               "RelativeDocumentMoniker": "NimGameProjekt\\NimGame.c",
               "ToolTip": "C:\\Users\\JoachimWagner\\Documents\\git\\vw\\vw-c-november-2025\\NimGameProjekt\\NimGameProjekt\\NimGame.c",
               "RelativeToolTip": "NimGameProjekt\\NimGame.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-11-27T12:28:33.305Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "NimGame.h",
               "DocumentMoniker": "C:\\Users\\JoachimWagner\\Documents\\git\\vw\\vw-c-november-2025\\NimGameProjekt\\NimGameProjekt\\NimGame.h",
               "RelativeDocumentMoniker": "NimGameProjekt\\NimGame.h",
@@ -52,13 +52,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "NimGameProjekt.c",
               "DocumentMoniker": "C:\\Users\\JoachimWagner\\Documents\\git\\vw\\vw-c-november-2025\\NimGameProjekt\\NimGameProjekt\\NimGameProjekt.c",
               "RelativeDocumentMoniker": "NimGameProjekt\\NimGameProjekt.c",
               "ToolTip": "C:\\Users\\JoachimWagner\\Documents\\git\\vw\\vw-c-november-2025\\NimGameProjekt\\NimGameProjekt\\NimGameProjekt.c",
               "RelativeToolTip": "NimGameProjekt\\NimGameProjekt.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-11-27T12:24:17.337Z",
               "EditorCaption": ""

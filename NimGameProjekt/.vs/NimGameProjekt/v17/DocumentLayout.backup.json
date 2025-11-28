@@ -30,9 +30,9 @@
               "Title": "NimGame.c",
               "DocumentMoniker": "C:\\Users\\JoachimWagner\\Documents\\git\\vw\\vw-c-november-2025\\NimGameProjekt\\NimGameProjekt\\NimGame.c",
               "RelativeDocumentMoniker": "NimGameProjekt\\NimGame.c",
-              "ToolTip": "C:\\Users\\JoachimWagner\\Documents\\git\\vw\\vw-c-november-2025\\NimGameProjekt\\NimGameProjekt\\NimGame.c*",
-              "RelativeToolTip": "NimGameProjekt\\NimGame.c*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAKAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\JoachimWagner\\Documents\\git\\vw\\vw-c-november-2025\\NimGameProjekt\\NimGameProjekt\\NimGame.c",
+              "RelativeToolTip": "NimGameProjekt\\NimGame.c",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAUwD4AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-11-27T12:28:33.305Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "NimGameProjekt\\NimGame.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-27T12:25:35.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-27T12:25:35.024Z"
             },
             {
               "$type": "Document",
@@ -58,10 +57,9 @@
               "RelativeDocumentMoniker": "NimGameProjekt\\NimGameProjekt.c",
               "ToolTip": "C:\\Users\\JoachimWagner\\Documents\\git\\vw\\vw-c-november-2025\\NimGameProjekt\\NimGameProjekt\\NimGameProjekt.c",
               "RelativeToolTip": "NimGameProjekt\\NimGameProjekt.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-11-27T12:24:17.337Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-27T12:24:17.337Z"
             }
           ]
         }
